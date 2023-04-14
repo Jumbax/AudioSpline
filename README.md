@@ -65,7 +65,7 @@ You will find a window and a few commands for debug aswell.
 
 ---
 
-### Window
+### Window:
 ![Cattura8](https://user-images.githubusercontent.com/70896924/232054171-06bfd78d-2bdb-4a81-8498-8917bfd60018.png)
 - ToggleIsActive: Call ToggleIsActive().
 - ToggleUseTick: Call ToggleUseTick().
@@ -73,7 +73,7 @@ You will find a window and a few commands for debug aswell.
 
 ---
 
-### Commands
+### Commands:
 
 - AudioSpline Tab: Open the AudioSpline window.
 - AudioSpline ToggleIsActive: Call ToggleIsActive()
