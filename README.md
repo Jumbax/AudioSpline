@@ -20,16 +20,17 @@ You will find a window and a few commands for debug aswell.
 
 ![Cattura2](https://user-images.githubusercontent.com/70896924/232051027-77b92daf-0ef9-478e-9502-654a4f8fe528.png)
 
-(If you haven’t this folder create a plugin following this guide to create this: LINK ALLA GUIDA PER CREARE UN PLUGIN)
+(If you haven’t this folder create a plugin following this guide to create it: https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/Plugins/)
 - Add the string “AudioSplineTool” to your Build.cs file like this
-IMMAGINE
+![Cattura4](https://user-images.githubusercontent.com/70896924/232052249-5545f175-299b-46b9-9015-75a26261924e.png)
 - In the folder Plugin/AudioSplineTool C++Classes/AudioSplineTool/Public you will find the Actor
 - In the folder Plugin/AudioSplineTool Content you will find the Blueprint.
 - Choose the right for you and put on scene
-- Select the one you choosed and selecting the Spline Component add some Spline Point.
-Follow this guide if you are not familiar with this: LINK ALL’USO DELLO SPLINE COMPONENT.
+- Select the one you choosed and selecting the Spline Component add some Spline Point. (Follow this guide if you are not familiar with this: https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/BlueprintSplines/HowTo/EditSplineComponentInEditor/).
 - Pass to the AudioSpline the Actor you want the spline will follow.
-IMMAGINE
+
+![Cattura6](https://user-images.githubusercontent.com/70896924/232053383-e418d542-b230-4f22-92b6-9ec641945aa3.png)
+
 
 ### Properties:
 
@@ -55,7 +56,7 @@ IMMAGINE
 - ToggleUseSphereCollision(): toggle the AudioSpline UseSphereCollision, if it’s true will became false and viceversa
 
 ### Window
-
+![Cattura8](https://user-images.githubusercontent.com/70896924/232054171-06bfd78d-2bdb-4a81-8498-8917bfd60018.png)
 - ToggleIsActive: Call ToggleIsActive().
 - ToggleUseTick: Call ToggleUseTick().
 - ToggleUseSphereCollision: Call ToggleUseSphereCollision().
