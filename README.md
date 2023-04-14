@@ -25,10 +25,11 @@ You will find a window and a few commands for debug aswell.
 ![Cattura2](https://user-images.githubusercontent.com/70896924/232051027-77b92daf-0ef9-478e-9502-654a4f8fe528.png)
 
 (If you haven’t this folder create a plugin following this guide to create it: https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/Plugins/)
-- Add the string “AudioSplineTool” to your Build.cs file like this
+- Add the string “AudioSplinePlugin” to your Build.cs file like this
 ![Cattura4](https://user-images.githubusercontent.com/70896924/232052249-5545f175-299b-46b9-9015-75a26261924e.png)
-- In the folder Plugin/AudioSplineTool C++Classes/AudioSplineTool/Public you will find the Actor
-- In the folder Plugin/AudioSplineTool Content you will find the Blueprint.
+- In Unreal Engine Content Browser
+- In the folder Plugin/AudioSplinePluginC++Classes/AudioSplinePlugin/Public you will find the Actor
+- In the folder Plugin/AudioSplinePluginContent you will find the Blueprint.
 - Choose the right for you and put on scene
 - Select the one you choosed and selecting the Spline Component add some Spline Point. (Follow this guide if you are not familiar with this: https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/BlueprintSplines/HowTo/EditSplineComponentInEditor/).
 - Pass to the AudioSpline the Actor you want the spline will follow.
