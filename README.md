@@ -26,7 +26,7 @@ You will find a window and a few commands for debug aswell.
 
 (If you haven’t this folder create a plugin following this guide to create it: https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/Plugins/)
 - Add the string “AudioSplinePlugin” to your Build.cs file like this
-![Cattura4](https://user-images.githubusercontent.com/70896924/232052249-5545f175-299b-46b9-9015-75a26261924e.png)
+![Cattura4](https://user-images.githubusercontent.com/70896924/232074007-b3107bff-a074-43d4-aa60-784c1d14c0a5.png)
 - In Unreal Engine Content Browser
 - In the folder Plugin/AudioSplinePluginC++Classes/AudioSplinePlugin/Public you will find the Actor
 - In the folder Plugin/AudioSplinePluginContent you will find the Blueprint.
