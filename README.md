@@ -7,6 +7,8 @@ You will find a window and a few commands for debug aswell.
 
 ### WARNING: The window's buttons and the commands work only in play mode.
 
+---
+
 ### Features:
 
 - Use Tick or a custom frequency for Update the movement
@@ -14,6 +16,8 @@ You will find a window and a few commands for debug aswell.
 - Use a Sphere Collider to Active/Deactive automatically
 - Window with some buttons for debug
 - A few commands for debug
+
+---
 
 ### Usage:
 
@@ -33,6 +37,7 @@ You will find a window and a few commands for debug aswell.
 
 ![Cattura6](https://user-images.githubusercontent.com/70896924/232053383-e418d542-b230-4f22-92b6-9ec641945aa3.png)
 
+---
 
 ### Properties:
 
@@ -42,6 +47,8 @@ You will find a window and a few commands for debug aswell.
 - UseTick: You can choose if updating the movement using tick or with a custom frequency
 - IsActive: Is Telling you if the AudioSpline is currently active
 - UseSphereCollision: If SphereCollision is true when your Actor will collide with the SphereComponent the AudioSpline will Start/Stop to move and follow him
+
+---
 
 ### Functions:
 
@@ -57,11 +64,15 @@ You will find a window and a few commands for debug aswell.
 - ToggleUseTick(): toggle the AudioSpine UseTick, if it’s true will became false and viceversa
 - ToggleUseSphereCollision(): toggle the AudioSpline UseSphereCollision, if it’s true will became false and viceversa
 
+---
+
 ### Window
 ![Cattura8](https://user-images.githubusercontent.com/70896924/232054171-06bfd78d-2bdb-4a81-8498-8917bfd60018.png)
 - ToggleIsActive: Call ToggleIsActive().
 - ToggleUseTick: Call ToggleUseTick().
 - ToggleUseSphereCollision: Call ToggleUseSphereCollision().
+
+---
 
 ### Commands
 
@@ -69,5 +80,7 @@ You will find a window and a few commands for debug aswell.
 - AudioSpline ToggleIsActive: Call ToggleIsActive()
 - AudioSpline ToggleUseTick: Call ToggleUseTick().
 - AudioSpline ToggleUseSphereCollision: Call ToggleUseSphereCollision().
+
+---
 
 VIDEO
