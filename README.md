@@ -5,6 +5,8 @@ GIF
 
 You will find a window and a few commands for debug aswell.
 
+### WARNING: The window's buttons and the commands work only in play mode.
+
 ### Features:
 
 - Use Tick or a custom frequency for Update the movement
