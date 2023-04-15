@@ -20,7 +20,7 @@ You will find a window and a few commands for debug aswell.
 ### Usage:
 
 - Download the content from LINK
-- Drag and drop the folder inside your plugin folder.
+- Drag and drop the folder inside your plugin folder
 
 ![Cattura2](https://user-images.githubusercontent.com/70896924/232051027-77b92daf-0ef9-478e-9502-654a4f8fe528.png)
 
@@ -29,10 +29,10 @@ You will find a window and a few commands for debug aswell.
 ![Cattura4](https://user-images.githubusercontent.com/70896924/232074007-b3107bff-a074-43d4-aa60-784c1d14c0a5.png)
 - In Unreal Engine Content Browser
 - In the folder Plugin/AudioSplinePluginC++Classes/AudioSplinePlugin/Public you will find the Actor
-- In the folder Plugin/AudioSplinePluginContent you will find the Blueprint.
-- Choose the right for you and put on scene
+- In the folder Plugin/AudioSplinePluginContent you will find the Blueprint
+- Choose the right one for you and put it on scene
 - Select the one you choosed and selecting the Spline Component add some Spline Point. (Follow this guide if you are not familiar with this: https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/BlueprintSplines/HowTo/EditSplineComponentInEditor/).
-- Pass to the AudioSpline the Actor you want the spline will follow.
+- Pass to the AudioSpline the Actor you want the spline will follow
 
 ![Cattura6](https://user-images.githubusercontent.com/70896924/232053383-e418d542-b230-4f22-92b6-9ec641945aa3.png)
 
@@ -67,9 +67,9 @@ You will find a window and a few commands for debug aswell.
 
 ### Window:
 ![Cattura8](https://user-images.githubusercontent.com/70896924/232054171-06bfd78d-2bdb-4a81-8498-8917bfd60018.png)
-- ToggleIsActive: Call ToggleIsActive().
-- ToggleUseTick: Call ToggleUseTick().
-- ToggleUseSphereCollision: Call ToggleUseSphereCollision().
+- ToggleIsActive: Call ToggleIsActive()
+- ToggleUseTick: Call ToggleUseTick()
+- ToggleUseSphereCollision: Call ToggleUseSphereCollision()
 
 ---
 
@@ -77,8 +77,8 @@ You will find a window and a few commands for debug aswell.
 
 - AudioSpline Tab: Open the AudioSpline window.
 - AudioSpline ToggleIsActive: Call ToggleIsActive()
-- AudioSpline ToggleUseTick: Call ToggleUseTick().
-- AudioSpline ToggleUseSphereCollision: Call ToggleUseSphereCollision().
+- AudioSpline ToggleUseTick: Call ToggleUseTick()
+- AudioSpline ToggleUseSphereCollision: Call ToggleUseSphereCollision()
 
 ---
 
