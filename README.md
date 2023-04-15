@@ -75,7 +75,7 @@ You will find a window and a few commands for debug aswell.
 
 ### Commands:
 
-- AudioSpline Tab: Open the AudioSpline window.
+- AudioSpline Tab: Open the AudioSpline window
 - AudioSpline ToggleIsActive: Call ToggleIsActive()
 - AudioSpline ToggleUseTick: Call ToggleUseTick()
 - AudioSpline ToggleUseSphereCollision: Call ToggleUseSphereCollision()
