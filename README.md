@@ -36,6 +36,11 @@ You will find a window and a few commands for debug aswell.
 
 ![Cattura6](https://user-images.githubusercontent.com/70896924/232053383-e418d542-b230-4f22-92b6-9ec641945aa3.png)
 
+- Assign an audio to the AudioComponent and set his Attenuation for a good result
+- Remember to set your custom Sphere Radius if you are using the Sphere Collision
+
+VIDEO
+
 ---
 
 ### Properties:
