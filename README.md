@@ -1,5 +1,5 @@
 # AudioSpline
-Hello this is a plugin that I made for Unreal Engine 5 in C++.
+Hello! This is a plugin that I made for Unreal Engine 5 in C++.
 Here you will find an Audio Spline, a common useful tool for making an audio source follow an Actor without exiting from an precalculated path.
 
 ![giphy](https://user-images.githubusercontent.com/70896924/232324519-67e78d06-e284-4e7d-89f8-70d28517e8ec.gif)
