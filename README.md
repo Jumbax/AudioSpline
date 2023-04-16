@@ -20,7 +20,7 @@ You will find a window and a few commands for debug aswell.
 
 ### Usage:
 
-- Download the content from LINK
+- Download the content from [here](https://github.com/Jumbax/AudioSpline/releases/tag/v1.0.0)
 - Drag and drop the folder inside your plugin folder
 
 ![Cattura2](https://user-images.githubusercontent.com/70896924/232051027-77b92daf-0ef9-478e-9502-654a4f8fe528.png)
