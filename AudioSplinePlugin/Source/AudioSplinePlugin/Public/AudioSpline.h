@@ -79,10 +79,10 @@ protected:
 		bool bUseTick = true;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Settings")
-		bool bIsActive = false;
+		bool bIsActive = true;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Settings")
-		bool bUseSphereCollision = true;
+		bool bUseSphereCollision = false;
 
 	UPROPERTY(VisibleDefaultsOnly, BlueprintReadWrite, Category = "Component")
 		USphereComponent* SphereComponent = nullptr;
