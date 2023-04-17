@@ -40,11 +40,7 @@ You will find a window and a few commands for debug aswell.
 - Assign an audio to the AudioComponent and set his Attenuation for a good result
 - Remember to set your custom Sphere Radius if you are using the Sphere Collision
 
-
 https://user-images.githubusercontent.com/70896924/232422292-fbb2438b-484a-4a67-94da-9c90604213b1.mp4
-
-
-VIDEO
 
 ---
 
